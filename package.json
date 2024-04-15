@@ -1,0 +1,17 @@
+{
+    "name": "nodejs-pure-demo",
+    "version": "1.0.0",
+    "description": "node-image demo tito",
+    "author": "Tito Roosch Queiroz",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+        "nodejs",
+        "bootstrap",
+        "express"
+    ],
+    "dependencies": {
+        "express": "^4.16.4",
+        "semver": "^7.6.0"
+    }
+}
